@@ -4,8 +4,9 @@ https://youtu.be/kTYC6uK2TTA
 Two public links to the Concept Map (anyone on the internet can view without login):
 PDF:
 https://drive.google.com/file/d/19NvkA0XCJizrtyPGHTxTaOYzCWPRr0D9/view?usp=sharing
+
 Native/original format:
-http://draw.io/...
+https://drive.google.com/file/d/1_jc4lSemS6M-NvQ0Hsv5wgs4YUdYUng5/view
 
 Name, Author, Edition, year, and publisher of the Book:
 Neural Networks
