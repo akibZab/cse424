@@ -7,8 +7,6 @@ https://youtube.com
 Paper title:
 Develop a language model to accurately predict the disease given a short description of the symptoms faced by the user.
 
-Paper presentation (anyone can view without login):
-https://www.overleaf.com/7881647437nzvgzpndmtnj
 
 Group Number:
 19
