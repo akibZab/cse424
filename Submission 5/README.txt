@@ -2,7 +2,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/7881647437nzvgzpndmtnj
 
 Unlisted YouTube video:
-https://youtube.com
+https://youtu.be/NPbtrSkwk74
 
 Paper title:
 Develop a language model to accurately predict the disease given a short description of the symptoms faced by the user.
