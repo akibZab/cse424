@@ -30,6 +30,6 @@ Group Number:
 
 Group Members:
 20201046 Ahbab Hossain
-23341129 Ahbab Hossain
+23341129 Akib Zabed Ifti
 23366009 Ripa Sarkar
 
