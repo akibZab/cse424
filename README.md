@@ -1,2 +1,3 @@
 # cse424
-Patter Recognition Tasks
+This is a 400 level course from Brac University (Patter Recognition). 
+
